@@ -1,0 +1,11 @@
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\bin\Debug\netcoreapp2.1\Vk_Bot.deps.json
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\bin\Debug\netcoreapp2.1\Vk_Bot.runtimeconfig.json
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\bin\Debug\netcoreapp2.1\Vk_Bot.runtimeconfig.dev.json
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\bin\Debug\netcoreapp2.1\Vk_Bot.dll
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.csprojAssemblyReference.cache
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.csproj.CoreCompileInputs.cache
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.RazorAssemblyInfo.cache
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.RazorAssemblyInfo.cs
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.AssemblyInfoInputs.cache
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.AssemblyInfo.cs
+F:\Users\User\source\repos\Vk_Bot\Vk_Bot\obj\Debug\netcoreapp2.1\Vk_Bot.RazorTargetAssemblyInfo.cache
